@@ -15,6 +15,13 @@ _Required Matlab built-in toolboxes:_
 
 
 --------------------------------
-## Main scripts: :file_folder: 
+## Main scripts: : 
+(1) Firing_Rates.m
+(2) Neurons_Grouped_By_Firing_Rates.m
+(3) Neural_FR_During_Ripples.m
+(4) Spikes_to_SO_Phase.m
+
+**Note** : The scripts are named according to the figure titles they generate in the paper.
+
 
 
